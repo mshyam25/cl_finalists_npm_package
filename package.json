@@ -1,0 +1,24 @@
+{
+  "name": "cl_finalists_5yrs",
+  "version": "1.0.0",
+  "description": "Gives the finalists of Champions League since 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshyam25/cl_finalists_npm_package.git"
+  },
+  "keywords": [
+    "Champions",
+    "League",
+    "finalists"
+  ],
+  "author": "Shyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshyam25/cl_finalists_npm_package/issues"
+  },
+  "homepage": "https://github.com/mshyam25/cl_finalists_npm_package#readme"
+}
