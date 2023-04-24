@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mshyam25/cl_finalists_npm_package/issues"
   },
-  "homepage": "https://github.com/mshyam25/cl_finalists_npm_package#readme"
+  "homepage": "https://github.com/mshyam25/cl_finalists_npm_package#readme",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
 }
