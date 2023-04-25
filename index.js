@@ -1,4 +1,4 @@
-final_teams = (year) => {
+const final_teams = (year) => {
   switch (year) {
     case 2017:
       console.log('Real Madrid vs Liverpool');
@@ -20,7 +20,7 @@ final_teams = (year) => {
   }
 };
 
-cl_winner = function () {
+const cl_winner = function () {
   console.log('Champions League Winner');
 };
 
