@@ -20,8 +20,8 @@ final_teams = (year) => {
   }
 };
 
-// cl_winner = function (string) {
-//   return string === 'RMA';
-// };
+cl_winner = function () {
+  console.log('Champions League Winner');
+};
 
-module.exports = final_teams;
+module.exports = { final_teams, cl_winner };
