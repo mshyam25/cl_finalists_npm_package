@@ -1,6 +1,6 @@
 {
   "name": "cl_finalists_5yrs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gives the finalists of Champions League since 2017",
   "main": "index.js",
   "scripts": {
